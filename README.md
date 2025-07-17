@@ -1,22 +1,28 @@
-# JokeMaster
+
 # Joke Master App 🤣
 
-An offline multilingual joke generator Android app built with Java and XML. This app delivers highly humorous jokes in **English**, **Hindi**, and **Gujarati** — with a clean, lightweight design and no internet required!
+# JokeMaster – Multilingual Joke Generator 🤣
 
-## 📱 Features
+An offline Android app that delivers hilarious jokes in **English, Hindi, and Gujarati**. Built using Java and XML in Android Studio.
 
-- 🎭 **Multilingual Jokes:** Supports English, Hindi, and Gujarati joke collections.
-- 📶 **100% Offline:** No internet needed to enjoy laughter anytime, anywhere.
-- 🔁 **Random Joke Shuffle:** Tap to generate a new joke every time.
-- 🎨 **Simple & Fun UI:** Minimal and user-friendly interface for all age groups.
-- 📦 **Expandable:** Easy to add more jokes or new languages in the future.
+## 🎯 Features:
+- 😂 Random joke generation
+- 🌐 Supports 3 languages: English, Hindi, Gujarati
+- 📱 Offline functionality
+- 🖌️ Simple and clean UI
 
-## 🚀 Built With
+## 🚀 Tech Stack:
+- Java
+- XML
+- Android Studio
+- SharedPreferences
 
-- **Java** – Primary language for Android app logic
-- **Android Studio** – IDE used for development
-- **XML** – For crafting a clean and responsive user interface
-- **Local JSON Files** – To store and retrieve jokes efficiently
+---
+
+## 🙋‍♂️ Author
+**Krishna Dighe**  
+Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe)
+
 
 ## 🧠 Inspiration
 
