@@ -21,7 +21,7 @@ An offline Android app that delivers hilarious jokes in **English, Hindi, and Gu
 
 ## 🙋‍♂️ Author
 **Krishna Dighe**  
-Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe)
+Connect with me on [LinkedIn](https://linkedin.com/in/krishna-dighe410)
 
 
 ## 🧠 Inspiration
